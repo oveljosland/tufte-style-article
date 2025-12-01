@@ -1,7 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{tufte-article}[]
+\ProvidesClass{tufte-style-article}[]
 
-% This is the 'tufte-article' LaTeX class,
+% This is the 'tufte-style-article' LaTeX class,
 % inherited from the 'article' class and inspired
 % by the work of Edward Tufte.
 
